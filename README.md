@@ -13,7 +13,7 @@ Cybersecurity & Software Engineer • Dubai, UAE
 **Security:** Wireshark • Nessus • Splunk/ELK (learning) • Nmap • OWASP basics  
 **Backend:** Python (Flask/Django) • Java • Node  
 **Frontend:** React • Tailwind • Bootstrap  
-**Data/Cloud:** PostgreSQL • MySQL • AWS basics  
+**Data/Cloud:** PostgreSQL • MySQL • AWS basics  • MongoDb
 **Other:** Docker • Git/GitHub • CI
 
 ---

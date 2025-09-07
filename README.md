@@ -6,13 +6,6 @@ Cybersecurity & Software Engineer • Dubai, UAE
 <br/>I build secure, data-driven systems and document how they’re made.
 </p>
 
----
-
-### 🔭 What I’m focused on (Sept → Dec)
-- 🎓 **ISC2 CC** exam prep (Sept 27)  
-- 🧪 **Cybersecurity Labs**: Wireshark, Nessus, Password Security  
-- 🧩 **Projects**: Survey Suite (AI insights), Smart Farm IoT, Hospital Records Automation  
-- 🌐 **Portfolio site** + case studies
 
 ---
 
